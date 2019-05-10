@@ -18,6 +18,7 @@ gem 'bootstrap-sass', '~> 3.4'
 gem 'bootsnap', '= 1.4.1'
 gem 'devise', '~> 4.6'
 gem 'paperclip', '~> 6.1'
+gem 'masonry-rails', '~> 0.2.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the cogem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'de to stop execution and get a debugger console
